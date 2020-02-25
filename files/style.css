@@ -1,0 +1,119 @@
+
+body{
+    background-image: url('https://cdn.vox-cdn.com/thumbor/7KLyZBD76QJPuD3WEq4nBUCZf08=/0x0:2040x1360/1200x675/filters:focal(863x791:1189x1117)/cdn.vox-cdn.com/uploads/chorus_image/image/61432737/akrales_180824_2838_0014.0.jpg');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+.container {
+    background-color: #FFEBCD
+    ;
+    position: absolute;
+    top:20;
+    bottom: 00;
+    left: 0;
+    right: 0;
+    margin: auto;
+    height:100%;
+    width:60%;
+}
+  .left-half {
+    background-color: #FFEBCD
+    ;
+    position: absolute;
+    left: 0px;
+    width: 50%;
+  }
+  
+  .right-half {
+    background-color: #FFEBCD
+    ;
+    position: absolute;
+    right: 0px;
+    width: 50%;
+  }
+.zizou { color: #7a7c7f; font-size: 20px; font-family: "Libre Baskerville"}
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:6px;
+	border:1px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:25px;
+	font-weight:bold;
+	padding:6px 100px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css');
+.test1 {
+  padding: 1px;
+  background-color: #f44336;
+  color: white;
+}
+.test0 {
+  padding: 1px;
+  background-color: green;
+  color: white;
+}
+.bahbah2{
+  padding: 1px;
+  background-color: green;
+  color: white;
+}
+.bahbah3{
+  padding: 1px;
+  background-color: red;
+  color: white;
+}
+.bahbahprogreen{
+  padding: 1px;
+  background-color: green;
+  color: white;
+}
+.bahbahprored{
+  padding: 1px;
+  background-color: red;
+  color: white;
+}
+.bahbahramgreen{
+  padding: 1px;
+  background-color: green;
+  color: white;
+}
+.bahbahramred{
+  padding: 1px;
+  background-color: red;
+  color: white;
+}
+
+.wpcf2-select select {
+  background-color: #0563af;
+  color: white;
+  padding: 12px;
+  width: 250px;
+  border: none;
+  font-size: 20px;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+  -webkit-appearance: button;
+  appearance: button;
+  outline: none;
+}
+
+
